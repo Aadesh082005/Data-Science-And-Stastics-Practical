@@ -1,1 +1,1 @@
-# Data-Science-And-Stastics-Practical
+# Data-Science-And-Statistics-Practical
